@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- AI
+- Artificial intelligence
+- Machine learning
+- Deep learning
